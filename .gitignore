@@ -1,0 +1,3 @@
+build
+*.jar
+src/stanfordcorenlplibs/*.jar
